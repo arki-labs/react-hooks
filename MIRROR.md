@@ -1,6 +1,6 @@
 # @arki/react-hooks
 
-Published version: **0.0.0-stage**
+Published version: **0.1.1**
 
 This repository is a **read-only mirror** of the [@arki/react-hooks](https://www.npmjs.com/package/@arki/react-hooks) npm package.
 
